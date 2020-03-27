@@ -63,14 +63,9 @@ Agora abra o navegador e acesse `localhost:3000`
 
 No Mobile, existem duas formas de rodar:
 <br>
-1. Conectando o seu celular via USB
-<br>
-Nesse caso será necessário baixar o app do Expo, e depois de rodar os comandos abaixo, é só escanear o QRCode.
-<br>
-2. Através de um emulador
-<br>
+***1. Conectando o seu celular via USB:*** Nesse caso será necessário baixar o app do Expo, e depois de rodar os comandos abaixo, é só escanear o QRCode.
 
-Nesse caso basta rodar os comandos abaixo e na página do bundler do Expo, execute `Run on Android device/emulador` ou `Run on iOS simulador` de acordo com o seu device.
+***2. Através de um emulador:*** Nesse caso basta rodar os comandos abaixo e na página do bundler do Expo, execute `Run on Android device/emulador` ou `Run on iOS simulador` de acordo com o seu device.
 <br>
 
 Em outra aba/janela do terminal, execute os comandos abaixo para startar o Mobile:
