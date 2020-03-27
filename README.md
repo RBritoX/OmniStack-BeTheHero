@@ -2,7 +2,7 @@
   <img src="./bethehero.svg">
 </h1>
 
-### Semana OmniStack 11.0 da [RocketSeat](https://rocketseat.com.br/) :rocket:
+### :rocket: Semana OmniStack 11.0 da [RocketSeat](https://rocketseat.com.br/) :rocket:
 
 - [X] **23/03/2020** - Conhecendo a OmniStack (**Introdução**)
 - [X] **24/03/2020** - Criando a base da aplicação (**Back-End**)
@@ -14,12 +14,16 @@
 
 Dessa vez, desenvolvemos uma aplicação que vai conectar ONGs que precisam de ajuda com casos expecíficos, à pessoas que tem interesse de ajudar monetariamente alguma causa ou organização sem fins lucrativos. As ONGs vão se cadastrar pela WEB, cadastrando os casos e valores que estão precisando de ajuda, enquanto as pessoas que querem ajudar, vão acessar o APP e escolher a causa que tem interesse em ajudar.
 
+![Captura de Tela 2020-03-27 às 18 44 51](https://user-images.githubusercontent.com/34657005/77803093-1a12dc80-705b-11ea-8157-6d0f52b1dc16.png)
+
 ### :hammer_and_wrench: Tecnologias:
 
 - **[Node.js](https://nodejs.org/en/)**
 - *[Express](https://expressjs.com/pt-br/)*
 - *[Knex.js](http://knexjs.org/)*
 - *[Nodemon](https://nodemon.io/)*
+- *[Celebrate](https://github.com/arb/celebrate)*
+- *[Jest](https://jestjs.io/)*
 - **[React.js](https://pt-br.reactjs.org/)**
 - *[React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start)*
 - *[React Icons](https://react-icons.netlify.com/#/)*
