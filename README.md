@@ -12,7 +12,7 @@
 
 ### :computer: :iphone: O Projeto:
 
-Dessa vez, desenvolvemos uma aplicação que vai conectar ONGs que precisam de ajuda com casos expecíficos, à pessoas que tem interesse de ajudar monetariamente alguma causa ou organização sem fins lucrativos. As ONGs vão se cadastrar pela WEB, cadastrando os casos e valores que estão precisando de ajuda, enquanto as pessoas que querem ajudar, vão acessar o APP e escolher a causa que tem interesse em ajudar.
+Dessa vez, desenvolvemos uma aplicação que vai conectar ONGs que precisam de ajuda com casos específicos, à pessoas que tem interesse de ajudar monetariamente alguma causa ou organização sem fins lucrativos. As ONGs vão se cadastrar pela WEB, cadastrando os casos e valores que estão precisando de ajuda, enquanto as pessoas que querem ajudar, vão acessar o APP e escolher a causa que tem interesse em ajudar.
 
 ![Captura de Tela 2020-03-27 às 18 44 51](https://user-images.githubusercontent.com/34657005/77803093-1a12dc80-705b-11ea-8157-6d0f52b1dc16.png)
 
