@@ -2,6 +2,22 @@
   <img src="./bethehero.svg">
 </h1>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/OmniStack-BeTheHero">
+
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/OmniStack-BeTheHero">
+
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/OmniStack-BeTheHero">
+
+  <img alt="Node version" src="https://img.shields.io/badge/Node.js-v12.16.1-blue?style=flat&logo=node.js">
+
+  <img alt="React.js version" src="https://img.shields.io/badge/React.js-v16.13.1-blue?style=flat&logo=react">
+  
+  <img alt="Expo version" src="https://img.shields.io/badge/Expo-v36.0.0-blue?style=flat&logo=expo">
+
+  <img alt="GitHub code size in bytes" src="https://api.codacy.com/project/badge/Grade/5f7fa315c005463ea04f97bc8f89a0b4">
+</p>
+
 ### :rocket: Semana OmniStack 11.0 da [RocketSeat](https://rocketseat.com.br/) :rocket:
 
 - [X] **23/03/2020** - Conhecendo a OmniStack (**Introdução**)
